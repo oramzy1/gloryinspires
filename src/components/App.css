@@ -8,7 +8,7 @@
  
 }
 .App,.the-body, .blog-body, .develop-body{
-  overflow-x: hidden;
+  overflow-x: hidden !important;
 }
 .theBlog{
   display: block;
@@ -126,6 +126,11 @@ footer{
 }
 .navbar{
   z-index: 3000;
+  position: fixed !important;
+  width: 100%;
+}
+.inner-dev{
+  margin: 4rem 0;
 }
 .navbar-toggler:focus {
   outline: none !important;

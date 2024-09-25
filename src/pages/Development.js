@@ -9,7 +9,7 @@ function Development() {
     AOS.init();
 
   return (
-    <div data-aos="zoom-out" data-aos-duration='1500' className='develop-body'>
+    <div >
          <nav className="navbar navbar-expand-sm navbar-light bg-white">
         <div className="container">
             <a className="navbar-brand" href="/home"><img src="./img/Component 1.png" alt="" /></a>
@@ -38,14 +38,14 @@ function Development() {
     </div>
   </div>
         </nav>
-    <div className="container">
-        <div className="d-flex ms-3 mt-2">
-        <h6 className='me-4'>Development</h6>
-        <small typeof='date' className='text-black-50'>16 March 2024</small>
+    <div data-aos="zoom-out" data-aos-duration='1500' className='container develop-body'>
+        <div className="d-flex ms-3 mt-2 ">
+        <h6 className='me-4 inner-dev'>Development</h6>
+        <small typeof='date' className='text-black-50 inner-dev'>16 March 2024</small>
     </div>
     <h1 className='my-2'>Finding Strength in Faith: <br />Overcoming Life's Challenges</h1>
     <img src="./img/horizon.png" alt="" className='mt-4 horizon'/>
-    <div class="card mt-3 border-0">
+    <div className="card mt-3 border-0">
         <div className="w-75 m-auto">
             <p  className='mb-4' >
             <small>Explore stories of individuals who have found strength and resilience through their faith during difficult times.Explore stories of individuals who have found strength and resilience through their faith during difficult times.Explore stories of individuals who have found strength and resilience through their faith during difficult times.Explore stories of individuals who have found strength and resilience through their faith during difficult times.Explore stories of individuals who have found strength and resilience through their faith during difficult times.Explore stories of individuals who have found strength and resilience through their faith during difficult times.</small>
@@ -63,8 +63,8 @@ function Development() {
 
             
         </div>
-        <img class="w-50 m-auto mb-3" src="./img/doorway.png" alt="Title" />
-        <div class="card-body w-75 m-auto">
+        <img className="w-50 m-auto mb-3" src="./img/doorway.png" alt="Title" />
+        <div className="card-body w-75 m-auto">
             <p  className='mb-4' >
             <small>Explore stories of individuals who have found strength and resilience through their faith during difficult times.Explore stories of individuals who have found strength and resilience through their faith during difficult times.Explore stories of individuals who have found strength and resilience through their faith during difficult times.Explore stories of ndividuals who have found strength and resilience through their faith during difficult times.</small>
             </p>
