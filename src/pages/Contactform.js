@@ -1,5 +1,4 @@
 import React from 'react'
-import Nav from '../components/Nav'
 import Footer from '../components/Footer'
 import Maincontact from '../components/Maincontact'
 import Mainform from '../components/Mainform'
@@ -26,7 +25,7 @@ function Contactform() {
                     <a className="nav-link" href="/development">Christian Wallpaper</a>
                 </li>
                 <li className="nav-item past">
-                    <a className="nav-link" href="#">About</a>
+                    <a className="nav-link" href="/home">About</a>
                 </li>
                 <li className="nav-item present">
                     <a className="nav-link" href="/contactform">Connect With Us</a>

@@ -25,10 +25,10 @@ function Development() {
                     <a className="nav-link" href="/blog">Blog</a>
                 </li>
                 <li className="nav-item present">
-                    <a className="nav-link" href="#">Christian Wallpaper</a>
+                    <a className="nav-link" href="/development">Christian Wallpaper</a>
                 </li>
                 <li className="nav-item past">
-                    <a className="nav-link" href="#">About</a>
+                    <a className="nav-link" href="/home">About</a>
                 </li>
                 <li className="nav-item past">
                     <a className="nav-link" href="/contactform">Connect With Us</a>
@@ -79,9 +79,9 @@ function Development() {
         <button className="view text-white">View all</button>
     </div>
     <div className="row justify-content-center">
-        <Mydownblog img='./img/sky.png' title="Best Website to research for your next project" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="" />
-        <Mydownblog img='./img/lady.png' title="Best Website to research for your next project" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="" />
-        <Mydownblog img='./img/hope.png' title="Best Website to research for your next project" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="" />
+        <Mydownblog img='./img/sky.png' title="Best Website to research for your next project" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="/home" />
+        <Mydownblog img='./img/lady.png' title="Best Website to research for your next project" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="/home" />
+        <Mydownblog img='./img/hope.png' title="Best Website to research for your next project" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="/home" />
     </div>
     </div>
     <Abovefooter/>

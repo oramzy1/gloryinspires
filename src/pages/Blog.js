@@ -42,9 +42,9 @@ function Blog() {
     </div>
    <div className="container">
     <div className="row justify-content-center">
-    <Mytopblog  img="./img/road.png" title="8 Rules of Travelling In Sea That You Need To Know" content="Travelling in sea might have many advantages. Some of the advantages of transporting goods by sea include: you can ship large volume at costs" link="" />
-    <Mytopblog img="./img/hands.png" title="How to build strong portfolio and get a Job in UI/UX" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="" />
-    <Mytopblog img="./img/sky.png" title="How to Be a Professional Footballer in 2024" content="Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment. Survival strategies to ensure proactive " link="" />
+    <Mytopblog  img="./img/road.png" title="8 Rules of Travelling In Sea That You Need To Know" content="Travelling in sea might have many advantages. Some of the advantages of transporting goods by sea include: you can ship large volume at costs" link="/home" />
+    <Mytopblog img="./img/hands.png" title="How to build strong portfolio and get a Job in UI/UX" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="/home" />
+    <Mytopblog img="./img/sky.png" title="How to Be a Professional Footballer in 2024" content="Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment. Survival strategies to ensure proactive " link="/home" />
     </div>
    </div>
    <div className="container my-2">
@@ -53,12 +53,12 @@ function Blog() {
         <button className="view text-white">View all</button>
     </div>
     <div className="row justify-content-center">
-        <Mydownblog img='./img/sky.png' title="Best Website to research for your next project" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="" />
-        <Mydownblog img='./img/lady.png' title="Best Website to research for your next project" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="" />
-        <Mydownblog img='./img/hope.png' title="Best Website to research for your next project" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="" />
-        <Mydownblog img='./img/scripture.png' title="Who is the best singer on chart? Know him?" content="Chart by Billboard which ranks the all-time greatest artists based on their performance o the weekly Billboard Hot 100 and" link="" />
-        <Mydownblog img='./img/light.png' title="How to start import export business from home?" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional"  link="" />
-        <Mydownblog img='./img/tree.png' title="Make some drinks with milk and chocolates" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional" link="" />
+        <Mydownblog img='./img/sky.png' title="Best Website to research for your next project" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="/home" />
+        <Mydownblog img='./img/lady.png' title="Best Website to research for your next project" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="/home" />
+        <Mydownblog img='./img/hope.png' title="Best Website to research for your next project" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional click throughs from" link="/home" />
+        <Mydownblog img='./img/scripture.png' title="Who is the best singer on chart? Know him?" content="Chart by Billboard which ranks the all-time greatest artists based on their performance o the weekly Billboard Hot 100 and" link="/home" />
+        <Mydownblog img='./img/light.png' title="How to start import export business from home?" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional"  link="/home" />
+        <Mydownblog img='./img/tree.png' title="Make some drinks with milk and chocolates" content="Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional" link="/home" />
         
     </div>
    </div>
