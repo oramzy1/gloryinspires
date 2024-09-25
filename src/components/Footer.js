@@ -37,7 +37,7 @@ function Footer() {
             </div>
             <div className="col-12 col-md-4">
                 <h2 className="news">
-                    Subscribe to get Latest <br /> Updates and span <div className="spinner-grow"></div>
+                    Subscribe to get Latest <br /> Updates and news <div className="spinner-grow"></div>
                 </h2>
                 <form className='subscribe' action="">
                     <input className='py-2' type="text" placeholder='Yourmail@gmail.com' />
