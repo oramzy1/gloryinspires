@@ -10,6 +10,9 @@
 .App,.the-body, .blog-body, .develop-body{
   overflow-x: hidden !important;
 }
+.develop-body{
+  width: 100% !important;
+}
 .theBlog{
   display: block;
   margin: 0 auto;

@@ -9,7 +9,7 @@ function Development() {
     AOS.init();
 
   return (
-    <div >
+    <div className='develop-body' >
          <nav className="navbar navbar-expand-sm navbar-light bg-white">
         <div className="container">
             <a className="navbar-brand" href="/home"><img src="./img/Component 1.png" alt="" /></a>
