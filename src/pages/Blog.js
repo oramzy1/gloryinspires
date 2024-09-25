@@ -25,7 +25,7 @@ function Blog() {
                     <a className="nav-link" href="/development">Christian Wallpaper</a>
                 </li>
                 <li className="nav-item past">
-                    <a className="nav-link" href="#">About</a>
+                    <a className="nav-link" href="/home">About</a>
                 </li>
                 <li className="nav-item past">
                     <a className="nav-link" href="/contactform">Connect With Us</a>

@@ -21,7 +21,7 @@ function Footer() {
             <div className="col-12 col-md-2">
                 <p className="lead fs-4 fw-medium">Quicklinks</p>
                 <ul className="list-unstyled quicklinks">
-                <a href=""><li className='pb-2 pt-1'>About Us</li></a>
+                <a href="/home"><li className='pb-2 pt-1'>About Us</li></a>
                 <a href="/home"><li className='pb-2'>Podcast</li></a>
                 <a href="/contactform"><li className='pb-2'>Contact Us</li></a>
                 <a href="/blog"><li className='pb-2'>Blog</li></a>
