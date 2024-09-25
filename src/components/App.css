@@ -12,7 +12,9 @@
 }
 .develop-body{
   width: 100% !important;
+  overflow-x: hidden !important;
 }
+
 .theBlog{
   display: block;
   margin: 0 auto;
